@@ -13,7 +13,8 @@ A missão da PRO TECNOLOGIA é ajudar empresas a alcançarem seus objetivos atra
 Se você quiser saber mais sobre a PRO TECNOLOGIA ou discutir oportunidades de parceria, entre em contato conosco através dos seguintes canais:
 
 - **E-mail**: contato@protapps.com
-- **LinkedIn**: [LinkedIN](https://www.linkedin.com/company/pro-tecnologia-apps)
+- **LinkedIn**: [Linkedin](https://www.linkedin.com/company/pro-tecnologia-apps)
+- **Instagram**: [Instagram](https://www.instagram.com/protecnologiash)
 
 ## Licença 📝
 
