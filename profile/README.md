@@ -10,7 +10,7 @@ A missão da PRO Apps é ajudar empresas a alcançarem seus objetivos através d
 
 ## Contato 📬
 
-Se você quiser saber mais sobre a PRO TECNOLOGIA ou discutir oportunidades de parceria, entre em contato conosco através dos seguintes canais:
+Se você quiser saber mais sobre a PRO Apps ou discutir oportunidades de parceria, entre em contato conosco através dos seguintes canais:
 
 - **E-mail**: contato@protapps.com
 - **LinkedIn**: [Linkedin](https://www.linkedin.com/company/pro-tecnologia-apps)
